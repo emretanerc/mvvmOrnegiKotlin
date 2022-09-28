@@ -7,6 +7,7 @@
 
   Api URL: http://universities.hipolabs.com/search?country=Turkey
 
-  Retrofit
-  RxJava3
-  SwipeRefreshLayout
+  -Retrofit
+  -RxJava3
+  -SwipeRefreshLayout
+  -Viewbinding
